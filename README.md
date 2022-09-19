@@ -21,4 +21,4 @@ The main objective behind this project is to build a back-end Django application
 - At least 2 Relationships in the database.
 - JWT Authentication.
 - Make sure to use suitable HTTP status codes for your endpoints.
-Deployment.
+- Deployment.
