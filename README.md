@@ -1,14 +1,16 @@
-# Project Name : Ithaq
+# Project Name : Ithaq (Exchange of resources between companies)
 
-## idea: 
+## idea:  
 it's a system for company to Exchange Resorces between parteners such as Employee and Post jobs for a temprary projects, To benefit from the experience of employee from other companies.
 
 
 
 ## Project Requirements
 
+
 ## Main Objective
 The main objective behind this project is to build a back-end Django application using what you learn during bootcamp. Moreover, to evaluate Django learning outcomes by applying main concepts using technologies related such as MVT pattern, PostgreSQL, ORM, RESTFull APIs etc.
+
 
 ## Essential Requirements
 - At least 3 Controllers/Views.
